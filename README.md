@@ -1,0 +1,1 @@
+Quick hack until https://github.com/TypeStrong/ts-node/issues/1258 is implemented.
