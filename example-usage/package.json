@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ts-node-esm": "cspotcode/ts-node-esm"
+  },
+  "scripts": {
+    "start": "./cli.ts"
+  }
+}
